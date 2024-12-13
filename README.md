@@ -26,10 +26,9 @@
 
 <!-- Introduction-->
 
-<h2 align="center">I am passionate Fullstack software developer from Kenya.</h2>
+<h2 align="center">I am passionate Fullstack software developer from Kenya<h2>
 <hr>
 <!--Contact section-->
-
 <h3 align="left">Connect with me on:</h3>
 <p align="center">
     <a href="https://twitter.com/collyns_codes" target="_blank">
@@ -156,8 +155,8 @@
 <p align="center">
   <a href="https://github.com/collyns-linc?tab=repositories"><img  height="160" src="https://github-readme-stats.vercel.app/api?username=collyns-linc&count_private=true&show_icons=true&locale=en&theme=merko&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
   alt="Collins stats" width="49%" /></a>
-  <a href="https://github.com/Collins331?tab=stars">
-    <img  height="160"  src="https://github-readme-streak-stats.herokuapp.com/?user=collins331&&theme=merko&hide_border=false&stroke=0000&background=060A0CD0"
+  <a href="https://github.com/collyns-linc?tab=stars">
+    <img  height="160"  src="https://github-readme-streak-stats.herokuapp.com/?user=collyns-linc&&theme=merko&hide_border=false&stroke=0000&background=060A0CD0"
     alt="collins331" width="49%" /></a>
 
 <hr>
