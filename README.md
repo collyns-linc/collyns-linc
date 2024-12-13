@@ -26,7 +26,7 @@
 
 <!-- Introduction-->
 
-<h2 align="center">I am passionate Fullstack software developer from Kenya<h2>
+<h2 align="center">I am passionate Fullstack software developer from Kenya</h2>
 <hr>
 <!--Contact section-->
 <h3 align="left">Connect with me on:</h3>
@@ -157,14 +157,14 @@
   alt="Collins stats" width="49%" /></a>
   <a href="https://github.com/collyns-linc?tab=stars">
     <img  height="160"  src="https://github-readme-streak-stats.herokuapp.com/?user=collyns-linc&&theme=merko&hide_border=false&stroke=0000&background=060A0CD0"
-    alt="collins331" width="49%" /></a>
+    alt="collyns-linc" width="49%" /></a>
 
 <hr>
 <!-- Details -->
   
 - 🔭 I’m a **Software engineer**
 
-- 🌱 I’m currently learning **Python for Data Scienc**
+- 🌱 I’m currently learning **Python for Data Science**
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Python**
 
@@ -184,7 +184,7 @@
 
 ✨ Outside of work, I am an avid sports fan, especially when it comes to football.
 
-✨ I enjoy learning new technologies & am constantly seeking opportunities to expand my skillset. <!--markdownlint-disable-line-->
+✨ I enjoy learning new technologies & am constantly seeking opportunities to expand my skills. <!--markdownlint-disable-line-->
 
 <br/>
 <hr>
@@ -239,7 +239,7 @@
     <tr>
         <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=collyns-linc&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"
         alt="Top Languages" /></td>
-        <td><img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Collins331&theme=merko"
+        <td><img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=collyns-linc&theme=merko"
         alt="Profile Summary" /></td>
     </tr>
 </table>
